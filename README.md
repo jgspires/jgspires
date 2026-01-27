@@ -1,11 +1,14 @@
 <h1>Hello there! 👋</h1>
 <h3>Welcome to my personal GitHub, feel free to look around!</h3>
 
-<p>I am João Gabriel, a software developer and engineer with a love for backend development, software architecture, engineering, and games. Solving problems, improving myself, and seeing people enjoy what I helped create are the things that drive me the most.</p>
+<p>I am Lillian, previously known as João Gabriel, but transexuality changes many things ;)
+I am a software developer and engineer with a love for backend development, software architecture, engineering, and games. Solving problems, improving myself, and seeing people enjoy what I helped create are the things that drive me the most.</p>
 
-- 🔧 I currently work with Java, Python, and monitoring tools such as Grafana and Prometheus in the telecom area. Beyond that, I'm constantly working on a couple of personal projects using C++, JavaScript, Node.js, and other technologies. Always striving to keep myself up to date.
+- 🎮 Currently focusing most of my free time on my TypeScript + Vue game. For now it is private, but please don't hesitate to contact me if you'd like to take a look at the project together and share insights!
 
-- 📖 I'm currently focusing most of my learning efforts on deepening my knowledge about monitoring solutions, AWS, cloud architecture, backend development, software architecture, and software engineering.
+- 🔧 I currently work with Java, Python, and monitoring tools such as Grafana and Prometheus in the telecom area. Beyond that, I'm constantly working on a couple of personal projects using mainly TypeScript and Vue. But sometimes also C++, JavaScript, Node.js, and other technologies. Always striving to keep myself up to date.
+
+- 📖 I'm currently focusing most of my learning efforts on deepening my knowledge about monitoring solutions, back end developer and engineering, cloud architecture, software architecture, and software engineering in general.
 
 - 📢 Besides software development, I enjoy leading, facilitating, helping, and teaching others. I shine in roles where I am in constant contact with people but I do not shy away from individual work.
 
@@ -14,7 +17,7 @@
 - 💬 Please feel free to contact me with any professional inquiries you might have, I always enjoy healthy conversations and meeting new people!
 
 
-<a href="https://www.linkedin.com/in/joao-gabriel-s-pires/">
+<a href="https://www.linkedin.com/in/lillian-s-pires/">
   <img src="https://img.shields.io/badge/Find me on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

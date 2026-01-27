@@ -2,6 +2,7 @@
 <h3>Welcome to my personal GitHub, feel free to look around!</h3>
 
 <p>I am Lillian, previously known as João Gabriel, but transexuality changes many things ;)
+  
 I am a software developer and engineer with a love for backend development, software architecture, engineering, and games. Solving problems, improving myself, and seeing people enjoy what I helped create are the things that drive me the most.</p>
 
 - 🎮 Currently focusing most of my free time on my TypeScript + Vue game. For now it is private, but please don't hesitate to contact me if you'd like to take a look at the project together and share insights!

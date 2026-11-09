@@ -1,7 +1,7 @@
 <h1>Hello there! 👋</h1>
 <h3>Welcome to my personal GitHub, feel free to look around!</h3>
 
-<p>I am Lillian, previously known as João Gabriel, but transexuality changes many things ;)
+<p>I am Lillian
   
 I am a software developer and engineer with a love for backend development, software architecture, engineering, and games. Solving problems, improving myself, and seeing people enjoy what I helped create are the things that drive me the most.</p>
 
